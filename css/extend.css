@@ -1,0 +1,84 @@
+.full-width {
+	width:90%;
+	margin-left: 10px;
+}
+
+.footer-height{
+	height: 150px;
+}
+
+.background_image{
+	background-image: url('../img/blue_crystals-02.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*<a href='http://www.freepik.com/free-vector/frozen-background-in-blue-tones_784921.htm'>Designed by Freepik</a>*/
+    /*<a href='http://www.freepik.com/free-vector/dark-papers-background_785535.htm'>Designed by Freepik</a>*/
+}
+
+.frontImage{
+	max-width: 60%;
+	height: auto;
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.henry{
+	max-width: 80%;
+	height: auto;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*.henry:hover{
+	max-width: 85%;
+	height: auto;
+
+}*/
+.navbar-inverse{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	background-color: blue;
+
+}
+
+.people{
+	max-width: 80%;
+	height: auto;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+a>.fa-arrow-circle-down{
+	color: grey;
+}
+a>.fa-arrow-circle-down:hover{
+	color: #000;
+}
+
+
+
+
+h3{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 25px;
+}
+
+h4{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+}
+a>h5{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	color: grey;
+}
+a>h5:hover{
+color: #000;
+}
