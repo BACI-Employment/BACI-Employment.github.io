@@ -12,5 +12,4 @@ permalink: /contact/
 <br>
 
 <p><strong>For more info, please contact us:</strong></p>
-<p>phone: 604.299.5100</p>
-<p>e-mail: best@gobaci.com</p>
+<p>phone: 604.299.5100 <br> e-mail: best@gobaci.com</p>
