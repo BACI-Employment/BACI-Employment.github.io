@@ -8,6 +8,6 @@ permalink: /contact/
 
 <p>Employers include local theatres, grocery stores, coffee shops, restaurants, florists, woodshops, and yard maintenance businesses.</p>
 
-<p>For more info, please contact us:</p>
+<p><strong>For more info, please contact us:</strong></p>
 <p>phone: 604.299.5100</p>
 <p>e-mail: best@gobaci.com</p>
