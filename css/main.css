@@ -1,0 +1,422 @@
+/*CSS Style Sheet*/
+
+.background_image{
+	background-image: url('../img/blue_crystals-02.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*<a href='http://www.freepik.com/free-vector/frozen-background-in-blue-tones_784921.htm'>Designed by Freepik</a>*/
+    /*<a href='http://www.freepik.com/free-vector/dark-papers-background_785535.htm'>Designed by Freepik</a>*/
+}
+
+.frontImage{
+	max-width: 60%;
+	height: auto;
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.henry{
+	max-width: 80%;
+	height: auto;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*.henry:hover{
+	max-width: 85%;
+	height: auto;
+
+}*/
+.navbar-inverse{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	background-color: blue;
+
+}
+
+.people{
+	max-width: 80%;
+	height: auto;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.arrow{
+	max-width: 80%;
+	height: auto;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*.vertical-align {
+    display: flex;
+    align-items: center;
+}
+*/
+
+
+
+a>.fa-arrow-circle-down{
+	color: grey;
+}
+a>.fa-arrow-circle-down:hover{
+	color: #000;
+}
+
+p{
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	color: grey;
+	
+}
+
+h1{
+	font-family: 'Lobster', cursive;
+	font-size: 120px;
+}
+
+h2{
+	font-family: 'Lobster', cursive;
+	/*font-family: 'Open Sans', sans-serif;
+	font-weight: 300;*/
+	font-size: 40px;
+	text-align: center;
+}
+
+h3{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 25px;
+}
+
+h4{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+}
+a>h5{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	color: grey;
+}
+a>h5:hover{
+color: #000;
+}
+/* -------------- Modul One -------------------- */
+.modalDialog {
+	position: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+	z-index: 99999;
+	opacity:0;
+	-webkit-transition: opacity 400ms ease-in;
+	-moz-transition: opacity 400ms ease-in;
+	transition: opacity 400ms ease-in;
+	pointer-events: none;
+}
+
+.modalDialog:target {
+	opacity:1;
+	pointer-events: auto;
+}
+
+.modalDialog > div {
+	width: 400px;
+	position: relative;
+	margin: 10% auto;
+	padding: 5px 20px 13px 20px;
+	border-radius: 10px;
+	background: #fff;
+	/*background: -moz-linear-gradient(#fff, #999);
+	background: -webkit-linear-gradient(#fff, #999);
+	background: -o-linear-gradient(#fff, #999);*/
+}
+
+.close {
+	background: #606061;
+	color: #FFFFFF;
+	line-height: 25px;
+	position: absolute;
+	right: -12px;
+	text-align: center;
+	top: -10px;
+	width: 24px;
+	text-decoration: none;
+	font-weight: bold;
+	-webkit-border-radius: 12px;
+	-moz-border-radius: 12px;
+	border-radius: 12px;
+	-moz-box-shadow: 1px 1px 3px #000;
+	-webkit-box-shadow: 1px 1px 3px #000;
+	box-shadow: 1px 1px 3px #000;
+}
+
+.close:hover { background: #00d9ff; }
+
+/* -------------- Modul Two _1 -------------------- */
+
+.modalDialog_1 {
+	position: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+	z-index: 99999;
+	opacity:0;
+	-webkit-transition: opacity 400ms ease-in;
+	-moz-transition: opacity 400ms ease-in;
+	transition: opacity 400ms ease-in;
+	pointer-events: none;
+}
+
+.modalDialog_1:target {
+	opacity:1;
+	pointer-events: auto;
+}
+
+.modalDialog_1 > div {
+	width: 400px;
+	position: relative;
+	margin: 10% auto;
+	padding: 5px 20px 13px 20px;
+	border-radius: 10px;
+	background: #fff;
+	/*background: -moz-linear-gradient(#fff, #999);
+	background: -webkit-linear-gradient(#fff, #999);
+	background: -o-linear-gradient(#fff, #999);*/
+}
+/* -------------- Modul Three _2 -------------------- */
+
+.modalDialog_2 {
+	position: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+	z-index: 99999;
+	opacity:0;
+	-webkit-transition: opacity 400ms ease-in;
+	-moz-transition: opacity 400ms ease-in;
+	transition: opacity 400ms ease-in;
+	pointer-events: none;
+}
+
+.modalDialog_2:target {
+	opacity:1;
+	pointer-events: auto;
+}
+
+.modalDialog_2 > div {
+	width: 400px;
+	position: relative;
+	margin: 10% auto;
+	padding: 5px 20px 13px 20px;
+	border-radius: 10px;
+	background: #fff;
+	/*background: -moz-linear-gradient(#fff, #999);
+	background: -webkit-linear-gradient(#fff, #999);
+	background: -o-linear-gradient(#fff, #999);*/
+}
+/* -------------- Modul Four _3 -------------------- */
+
+.modalDialog_3 {
+	position: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+	z-index: 99999;
+	opacity:0;
+	-webkit-transition: opacity 400ms ease-in;
+	-moz-transition: opacity 400ms ease-in;
+	transition: opacity 400ms ease-in;
+	pointer-events: none;
+}
+
+.modalDialog_3:target {
+	opacity:1;
+	pointer-events: auto;
+}
+
+.modalDialog_3 > div {
+	width: 400px;
+	position: relative;
+	margin: 10% auto;
+	padding: 5px 20px 13px 20px;
+	border-radius: 10px;
+	background: #fff;
+	/*background: -moz-linear-gradient(#fff, #999);
+	background: -webkit-linear-gradient(#fff, #999);
+	background: -o-linear-gradient(#fff, #999);*/
+}
+
+/*------------------------------------------------*/
+
+/* -------------- Modul Five _4 -------------------- */
+
+.modalDialog_4 {
+	position: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+	z-index: 99999;
+	opacity:0;
+	-webkit-transition: opacity 400ms ease-in;
+	-moz-transition: opacity 400ms ease-in;
+	transition: opacity 400ms ease-in;
+	pointer-events: none;
+}
+
+.modalDialog_4:target {
+	opacity:1;
+	pointer-events: auto;
+}
+
+.modalDialog_4 > div {
+	width: 400px;
+	position: relative;
+	margin: 10% auto;
+	padding: 5px 20px 13px 20px;
+	border-radius: 10px;
+	background: #fff;
+	/*background: -moz-linear-gradient(#fff, #999);
+	background: -webkit-linear-gradient(#fff, #999);
+	background: -o-linear-gradient(#fff, #999);*/
+}
+
+/*------------------------------------------------*/
+
+/* -------------- Modul Six _5 -------------------- */
+
+.modalDialog_5 {
+	position: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+	z-index: 99999;
+	opacity:0;
+	-webkit-transition: opacity 400ms ease-in;
+	-moz-transition: opacity 400ms ease-in;
+	transition: opacity 400ms ease-in;
+	pointer-events: none;
+}
+
+.modalDialog_5:target {
+	opacity:1;
+	pointer-events: auto;
+}
+
+.modalDialog_5 > div {
+	width: 400px;
+	position: relative;
+	margin: 10% auto;
+	padding: 5px 20px 13px 20px;
+	border-radius: 10px;
+	background: #fff;
+	/*background: -moz-linear-gradient(#fff, #999);
+	background: -webkit-linear-gradient(#fff, #999);
+	background: -o-linear-gradient(#fff, #999);*/
+}
+
+/*------------------------------------------------*/
+
+/* -------------- Modul Seven _6 -------------------- */
+
+.modalDialog_6 {
+	position: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+	z-index: 99999;
+	opacity:0;
+	-webkit-transition: opacity 400ms ease-in;
+	-moz-transition: opacity 400ms ease-in;
+	transition: opacity 400ms ease-in;
+	pointer-events: none;
+}
+
+.modalDialog_6:target {
+	opacity:1;
+	pointer-events: auto;
+}
+
+.modalDialog_6 > div {
+	width: 400px;
+	position: relative;
+	margin: 10% auto;
+	padding: 5px 20px 13px 20px;
+	border-radius: 10px;
+	background: #fff;
+	/*background: -moz-linear-gradient(#fff, #999);
+	background: -webkit-linear-gradient(#fff, #999);
+	background: -o-linear-gradient(#fff, #999);*/
+}
+
+/*------------------------------------------------*/
+
+/* -------------- Modul Eight_7 -------------------- */
+
+.modalDialog_7 {
+	position: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+	z-index: 99999;
+	opacity:0;
+	-webkit-transition: opacity 400ms ease-in;
+	-moz-transition: opacity 400ms ease-in;
+	transition: opacity 400ms ease-in;
+	pointer-events: none;
+}
+
+.modalDialog_7:target {
+	opacity:1;
+	pointer-events: auto;
+}
+
+.modalDialog_7 > div {
+	width: 400px;
+	position: relative;
+	margin: 10% auto;
+	padding: 5px 20px 13px 20px;
+	border-radius: 10px;
+	background: #fff;
+	/*background: -moz-linear-gradient(#fff, #999);
+	background: -webkit-linear-gradient(#fff, #999);
+	background: -o-linear-gradient(#fff, #999);*/
+}
+
+/*------------------------------------------------*/
