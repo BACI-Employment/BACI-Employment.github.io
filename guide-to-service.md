@@ -34,7 +34,7 @@ permalink: /guide-to-service/
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700' rel='stylesheet' type='text/css'>
 
     
-]<!-- Jquery -->
+<!-- Jquery -->
 <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
 
 <link href="css-2/main.css" rel="stylesheet" type="text/css" />
