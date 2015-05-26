@@ -18,4 +18,5 @@ permalink: /services/
     <p>We offer 1:1 support to the new employee – at no cost to you. We will assist the development of the employee/employer relationship to maintain successful employment.
 </p>
 </div>
+<p>View the <a href="BEST-Brochure.pdf">BEST Brochure</a></p>
 
