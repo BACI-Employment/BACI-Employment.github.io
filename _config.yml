@@ -1,7 +1,9 @@
 # Site settings
 title: BACI's Employment and Supported  Training
 email: kari.wong@gobaci.com
-description: > # this means to ignore newlines until "baseurl:" The objective of BEST is to find place of employment where the employee is valued and included in all aspects of the work and workplace. BEST strives to help job seekers and employers to create an inclusive workplace.
+description: > # this means to ignore newlines until "baseurl:" 
+	The objective of BEST is to find place of employment where the employee is valued and included in all aspects of the work and workplace. 
+	BEST strives to help job seekers and employers to create an inclusive workplace.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://BACI-Employment.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
