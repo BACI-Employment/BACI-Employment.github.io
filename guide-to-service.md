@@ -179,12 +179,12 @@ permalink: /guide-to-service/
 				</div>
 		</div>
 <div class="container">
-			<div class="col-md-6">
-				<img class="henry" width="40%" src="../img/untitled-1-14.png"></img>
+<div class="col-md-6">
+	<img class="henry" width="40%" src="../img/untitled-1-14.png"></img>
 				<hr/>
 				<h4 style="text-align:center;">9</h4>
 				<p style="text-align: left;">Once Henry's work preferences have been identified and his skills have been assessed, his ES will start with the <strong>"Job Development"</strong> and <strong>"Job Search"</strong>. Henry and his ES together will start creating resumes with updated information and applying for jobs that are of interest to Henry and also are a good fit for his skills and abilities. His ES will also start <strong>connecting and developing relationships with employers</strong> who have an opening and requirement which would be a right fit for the skill set Henry possesses. His ES will help Henry in identifying and creating opportunities as well as setting up meetings with employers. This would <strong>result in obtaining employment opportunities for Henry</strong>.</p>
-			</div>
+</div>
 
 
 <div class="col-md-6">
@@ -192,12 +192,12 @@ permalink: /guide-to-service/
 				<hr/>
 				<h4 style="text-align:center;">10</h4>
 				<p style="text-align: left;">Once Henry has successfully obtained a paid position according to the <strong>Employment Standard Act</strong>, he will be supported through his hiring procedure and then his ES will support him in understanding the job, doing a task-analysis, help with <strong>job coaching</strong> as well as in understanding and adapting to the work culture. If required his ES will also help train him to get to the job, taking appropriate breaks, and communicating with his supervisor and peers. Once Henry and his employers have established a good working relationship, the ES will slowly start fading out and replace themselves with natural supports. A maintenance plan would be put in place and Henry would be <strong>monitored for at least 3 years</strong>.</p>
-			</div>
+</div>
 
 			
 
 
-	</div>
+</div>
 
 <br><br><br>
 
