@@ -1,16 +1,8 @@
 # Site settings
-<<<<<<< HEAD
 title: BEST
 email: best@gobaci.com
 description: > # this means to ignore newlines until "baseurl:"
   © BEST 2015. All rights reserved
-=======
-title:	BEST
-email:	best@gobaci.com
-phone:	604.299.5100
-description: > # this means to ignore newlines until "baseurl:"
-© BEST 2015. All Rights Reserved.
->>>>>>> origin/master
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 gitstatic: "https://BACI-Employment.github.io"
