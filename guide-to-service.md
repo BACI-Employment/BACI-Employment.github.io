@@ -4,41 +4,25 @@ title: Guide To Service
 permalink: /guide-to-service/
 ---
 
-<div class="background_image">
-<!--<nav class="navbar navbar-inverse" id="home">
- 		<div class="container-fluid">
-    
-	    	<div class="navbar-header">
-		      	<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-		       	 	<span class="sr-only">Toggle navigation</span>
-		        	<span class="icon-bar"></span>
-		        	<span class="icon-bar"></span>
-		        	<span class="icon-bar"></span>
-		      	</button>
-		      	<a class="navbar-brand" href="index.html">Home</a>
-		      	<a class="navbar-brand" href="#infoMeeting">Informational Meeting</a>
-		      	<a class="navbar-brand" href="#discovery">Intake and Discovery</a>
-		      	<a class="navbar-brand" href="#jobSearch">Job Seeking</a>
-		      	 <a class="navbar-brand" href="documents.html">| Forms & Documents</a>
-	    	</div>
-    	</div>
-    </nav>-->
+<div style="background-color:#FAFAFA;">
 
-<div class="jumbotron">
 		<div class="container">
-			<div class="col-md-12" background="img/test_image.png">
+			<div class="col-md-12">
 				<h1 style="font-size:120px; font-family: 'Lobster', cursive; font-size: 120px;">Guide To Service</h1>
 				<br>
 				<p style="text-align: left; font-size: 18px;">The objective of BEST is to find place of employment where the employee is valued and included in all aspects of the work and workplace.</p>
 				<p style="text-align: left; font-size: 18px;">BEST strives to help job seekers and employers to create an inclusive workplace.</p>
-					
+
+			<br><br>	
 			</div>
+
 		</div>
-	</div>
+	
 </div>
 
-<br>
+<div style="background-color:#FFF;">
 <div class="container">
+	<br><br><br>
 		<div class="col-md-3">
 			<img class="people" src="../img/people-09.png">
 			<h3 style="text-align: center;">Henry</h3>
@@ -56,8 +40,9 @@ permalink: /guide-to-service/
 			<h3 style="text-align: center;">Henry's Brother</h3>
 		</div>
 	</div>
-	
-<br><br><br><br>
+	<br><br><br><br>
+	</div>
+
 	
 <!-- ..........................Informational Meeting........................................... -->
 <div style="background-color:#FAFAFA;">
@@ -112,10 +97,12 @@ permalink: /guide-to-service/
 
 	</div>
 
-<br><br>
+
 	
 
 <!-- ...................................Intake and Discovery................................................ -->
+<div style="background-color:#FFF;">
+	<br><br>
 <div class="container" id="discovery">
 <div class="col-md-12">
 			<h2 style="font-family: 'Lobster', cursive; font-size: 40px; text-align: center;">Intake and Discovery</h2>
@@ -168,7 +155,7 @@ permalink: /guide-to-service/
 		
 <br><br>
 
-	
+	</div>
 
 <!-- ...................................Job Search................................................ -->
 <div style="background-color:#FAFAFA;">
@@ -204,6 +191,7 @@ permalink: /guide-to-service/
 <div align="middle">
 			<a href="/guide-to-service/"><i class="fa fa-arrow-circle-up fa-3x"></i></a>
 			<a href="/guide-to-service/"><h5>Back To Top</h5></a>
-		</div>
+			<br>
 		<br>
-		<br>
+</div>
+		

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Story - 1"
+date:   2015-05-27 10:47:35
+categories: best stories
+---
+
+This is atest story....

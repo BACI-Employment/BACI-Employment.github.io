@@ -1,16 +1,13 @@
 ---
-layout: default
+layout: page
+title: Blog
+permalink: /blog/
 ---
-<div class="">
-<img src="../img/blue_crystals-02.png">
+<div class="home wrapper">
 
-</div>
+  <h1 class="page-heading" style="font-family: 'Open Sans', sans-serif; font-size:35px;">BEST Stories</h1>
 
-
-<!--<div class="home wrapper">
-  <h1 class="page-heading">BEST Stories</h1>
-
-  <ul class="post-list">
+  <ul class="post-list" style="font-family: 'Open Sans', sans-serif; ">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -24,4 +21,4 @@ layout: default
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-</div>-->
+</div>
