@@ -138,7 +138,7 @@ permalink: /guide-to-service/
 		</div>
 	
 <div class="col-md-3">
-			<img class="henry" src="img/story-08.png"></img>
+			<img class="henry" src="../img/story-08.png"></img>
 			<hr/>
 			<h4 style="text-align:center;">8</h4>
 			<p style="text-align: left;">On the basis of the discovery process, the ES and Henry will be able to narrow down the <strong>ICE (IDEAL CONDITIONS of EMPLOYMENT and DISCOVERY SUMMARY).</strong> Basically discover where Henry would like to work.</p>
