@@ -27,7 +27,7 @@ We are committed to learning about your business and the skills and abilities ne
 
 <div class="col-md-4" nav bs-docs-sidenav data-spy="affix-top" data-offset-top="60" data-offset-bottom="200" >
 	<h4 style="text-align:right;">Page Menu</h4>
-	<ul style="">
+	<ul style="text-align:right;">
 		<li><a href="#about">Services</a></li>
 
 	</ul>
