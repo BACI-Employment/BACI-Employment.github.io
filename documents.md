@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Documents & Forms
 permalink: /documents/
 ---
 <div class="wrapper">

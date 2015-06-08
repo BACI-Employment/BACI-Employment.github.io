@@ -118,7 +118,7 @@ permalink: /guide-to-service/
 			<hr/>
 				<h4 style="text-align:center;">5</h4>
 			<p style="text-align: left;">Henry came to the intake meeting with his ES. He was very excited and eager to start. Together they completed some essential paper work and set up three regular weekly appointments. Then they were ready to go.</p>
-			<p style="text-align: left; font-style: italic; font-size: 14px;"><a href="/documents.md"><strong>Click Here</strong></a> for forms and documents to be completed.</p>
+			<p style="text-align: left; font-style: italic; font-size: 14px;"><a href="/documents.md/"><strong>Click Here</strong></a> for forms and documents to be completed.</p>
 		</div>
 
 <div class="col-md-3">
@@ -126,7 +126,7 @@ permalink: /guide-to-service/
 			<hr/>
 			<h4 style="text-align:center;">6</h4>
 			<p style="text-align: left;">Henry was back the following week for his appointment with his ES. They first created a plan and projected a timeline by using a planning sheet. The first step here was to start the <strong>"DSCOVERY PROCESS"</strong> and specifically start the <strong>"PRIMARY DISCOVERY"</strong>. The objective of the primary discovery is to be able to identify areas where Henry may require some additional support. For example interview skills, computer skills etc. Workshops have been created to provide additional support.</p>
-			<p style="text-align: left; font-style: italic; font-size: 14px;"><a href="/documents.md"><strong>Click Here</strong></a> for forms and documents to be completed.</p>
+			<p style="text-align: left; font-style: italic; font-size: 14px;"><a href="/documents.md/"><strong>Click Here</strong></a> for forms and documents to be completed.</p>
 		</div>
 	
 <div class="col-md-3">
@@ -134,7 +134,7 @@ permalink: /guide-to-service/
 			<hr/>
 			<h4 style="text-align:center;">7</h4>
 			<p style="text-align: left;">Once the Primary Discovery is completed, Henry would move on to the <strong>"SECONDARY DISCOVERY"</strong> which is more focused on discovering work preferences related to skills, interest, environment, values, learning style, etc. Tools and resources have been created to supplement the discovery process.</p>
-			<p style="text-align: left; font-style: italic; font-size: 14px;"><a href="https//:BACI-Employment.github.io/documents.md"><strong>Click Here</strong></a> for forms and documents to be completed.</p>
+			<p style="text-align: left; font-style: italic; font-size: 14px;"><a href="../documents.md/"><strong>Click Here</strong></a> for forms and documents to be completed.</p>
 		</div>
 	
 <div class="col-md-3">
