@@ -134,7 +134,7 @@ permalink: /guide-to-service/
 			<hr/>
 			<h4 style="text-align:center;">7</h4>
 			<p style="text-align: left;">Once the Primary Discovery is completed, Henry would move on to the <strong>"SECONDARY DISCOVERY"</strong> which is more focused on discovering work preferences related to skills, interest, environment, values, learning style, etc. Tools and resources have been created to supplement the discovery process.</p>
-			<p style="text-align: left; font-style: italic; font-size: 14px;"><a href="/documents.md"><strong>Click Here</strong></a> for forms and documents to be completed.</p>
+			<p style="text-align: left; font-style: italic; font-size: 14px;"><a href="https//:BACI-Employment.github.io/documents.md"><strong>Click Here</strong></a> for forms and documents to be completed.</p>
 		</div>
 	
 <div class="col-md-3">
