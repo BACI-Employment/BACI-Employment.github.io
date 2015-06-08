@@ -6,7 +6,7 @@ permalink: /documents/
 <div class="wrapper">
 
 <div class="col-md-12">
-        <h3 style="font-family: 'Open Sans', sans-serif; font-size: 50px;">Documents & Forms</h3>
+        <h3 style="font-family: 'Open Sans', sans-serif; font-size: 40px;">Documents & Forms</h3>
 <br>
 
 </div>
