@@ -2,6 +2,8 @@
 
 ul{
 	list-style: none;
+	text-align: left;
+	margin-left: 0px;
 }
 .page-content{
 	/*background-image: url('../img/crystals-02.png');
@@ -11,7 +13,7 @@ ul{
 
 }
 .background_img{
-	background-image: url(../img/camera_5.jpg);
+	background-image: url(../img/mac_mockup_2_2.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -80,7 +82,9 @@ border: 1px solid #fff;
     margin-right: auto;
 }
 
-
+p{
+	font-size: 14px;
+}
 
 
 a>.fa-arrow-circle-down{
@@ -90,17 +94,21 @@ a>.fa-arrow-circle-down:hover{
 	color: #000;
 }
 
+h2{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+}
 
 h3{
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
-	font-size: 25px;
+	font-size: 15px;
 }
 
 h4{
 	font-family: 'Open Sans', sans-serif;
-	font-weight: 300;
-	font-size: 16px;
+	font-weight: 700;
+	font-size: 18px;
 }
 a>h5{
 	font-family: 'Open Sans', sans-serif;
