@@ -4,6 +4,3 @@ title: About
 permalink: /about/
 ---
 
-
-
-

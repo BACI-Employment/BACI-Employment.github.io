@@ -5,10 +5,9 @@ permalink: /guide-to-service/
 ---
 
 <div style="background-color:#FAFAFA;">
-
 		<div class="container">
 			<div class="col-md-12">
-				<h1 style="font-size:120px; font-family: 'Lobster', cursive; font-size: 120px;">Guide To Service</h1>
+				<h1 style="font-family: 'Lobster', cursive; font-size: 100px;">Guide To Service</h1>
 				<br>
 				<p style="text-align: left; font-size: 18px;">The objective of BEST is to find place of employment where the employee is valued and included in all aspects of the work and workplace.</p>
 				<p style="text-align: left; font-size: 18px;">BEST strives to help job seekers and employers to create an inclusive workplace.</p>
