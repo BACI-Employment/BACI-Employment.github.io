@@ -21,7 +21,7 @@ permalink: /services/
 </div>
 <div class="col-md-6">
   <br><br><br>
-  <h4>Candidate</h4>
+  <h2>Candidate</h2>
   <p>Description</p>
 </div>
 
@@ -33,7 +33,7 @@ permalink: /services/
 <div class="row">
 <div class="col-md-6" style="padding-left:100px">
   <br><br><br>
-  <h4>Employer</h4>
+  <h2>Employer</h2>
   <p>Description</p>
 </div>
 <div class="col-md-6">
